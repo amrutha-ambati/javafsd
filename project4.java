@@ -9,9 +9,9 @@ public class project4 {
 	
 	//default constructor
 	public project4() {
-		empId=1;
-		empName="Emp001";
-		department="finance";
+		empId=21;
+		empName="Ammu";
+		department="Resolution-Desk";
 		salary=35000;
 	}
 	
